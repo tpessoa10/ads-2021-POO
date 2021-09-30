@@ -1,0 +1,10 @@
+1-r-
+a - Não compila, pois um tipo String não pode ser atribuido a um tipo número
+b - Compila pois any recebe qualquer tipo de dado
+c - Compila pois os valores atribuidos são do tipo number
+
+2-r- 
+a - 3
+b - 12
+c - NaN
+
